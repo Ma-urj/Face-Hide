@@ -4,6 +4,13 @@ A real-time face detection tool that applies a mosaic (pixelation) effect over e
 
 ---
 
+## Demo
+
+- **Original:** [video2.mp4](video2.mp4)
+- **Result:** [video2_hidden.mp4](video2_hidden.mp4)
+
+---
+
 ## Features
 
 - Live playback with mosaic applied over all detected faces
