@@ -1,0 +1,6 @@
+# Core (required)
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Recommended — best accuracy, installs easily on Windows/macOS/Linux
+mediapipe>=0.10.0

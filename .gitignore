@@ -1,0 +1,30 @@
+# Video files — exclude all except the tracked ones below
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+
+# Keep these specific videos
+!video2.mp4
+!video2_hidden.mp4
+
+# Downloaded models
+*.onnx
+*.tflite
+*.caffemodel
+*.prototxt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
