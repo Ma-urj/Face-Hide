@@ -7,9 +7,11 @@
 *.flv
 *.webm
 
-# Keep these specific videos
+# Keep these specific videos and their GIFs
 !video2.mp4
 !video2_hidden.mp4
+!video2.gif
+!video2_hidden.gif
 
 # Downloaded models
 *.onnx
